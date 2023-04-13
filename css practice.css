@@ -1,0 +1,62 @@
+h1 {
+    color : red
+}
+
+.Orange_text {
+    color : orange
+}
+
+#yellow_text {
+    color :yellow
+}
+
+.green_backgrond {
+    background-color :green
+}
+.green_backgrond {
+    color : white
+}
+.green_backgrond {
+    text-align: center;
+}
+a {text-decoration: none;}
+a:hover{
+    color:orange
+}
+a:active {
+    background-color:green;
+}
+a:active {
+    text-decoration: underline;
+}
+a:active {
+    color:orange
+}
+a:visited {
+    color:blue
+}
+.box1{
+    border: 7px dashed #8b008b;
+    padding : 10px;
+    background-color: white;
+    width : 80px; 
+}
+
+.circle {
+    width : 100px;
+    height : 100px;
+    border-radius: 50%;
+    background-color: #fe1cc3;
+  }
+.box2{
+    border: 15px solid black;
+    padding : 30px;
+    background-color: white;
+    width : 550px; 
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+#shadow_right_bottom{
+    text-shadow: 5px 5px 4px rgb(black);;
+}
